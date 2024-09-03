@@ -3,6 +3,9 @@
 ## Description
 This is my first Arduino project. It blinks an LED connected to pin 8 and sends "Hello, World!" over the serial port every second.
 
+## Project Setup
+![Project Setup](setup.jpg)
+
 ## Hardware Requirements
 - Arduino board
 - LED and 220Ω resistor
