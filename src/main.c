@@ -13,7 +13,6 @@ int main(void) {
 
     timer1_init(); 
 
-    // Main loop
     while (1) {
         usart_transmit_string("Hello, World!\r\n");  
         delay_ms(SERIAL_DELAY);                     
