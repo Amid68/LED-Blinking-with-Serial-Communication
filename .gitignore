@@ -1,3 +1,4 @@
 # Ignore compiled files
 main.elf
 main.hex
+*.o
